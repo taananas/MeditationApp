@@ -45,8 +45,3 @@
 </div>
 
 
-
-## License
-
- Copyright 2022 Bogdan Zykov.
- Licensed under MIT License: https://opensource.org/licenses/MIT
