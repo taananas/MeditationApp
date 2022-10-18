@@ -44,11 +44,7 @@
 <img src="screenshots/profile2.png" height="350" alt="Screenshot"/>
 </div>
 
-## Author
-* [Bogdan Zykov](https://github.com/BogdanZyk)
 
-## Designer
-* [Angelika](https://dribbble.com/straigntline_ang)
 
 ## License
 
